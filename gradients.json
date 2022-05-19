@@ -1533,4 +1533,11 @@
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
     }
+    {
+        …
+    },
+    {
+      "name": "Fahmi",
+      "colors": ["#0097ff", "#55ffee"]
+    }
 ]
